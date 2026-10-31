@@ -1,4 +1,4 @@
-var a=10;
+/*var a=10;
 var a=20;
 a='bangladesh';
 console.log(a);
@@ -41,4 +41,26 @@ const person = {
 }
 person.country='bangla';
 person.age= 32;
-console.log(person);
+console.log(person);*/
+let a=10;
+let b=20;
+let c=(a+b);
+console.log(c);
+let x=11;
+x=x+1;
+x++
+console.log(x);
+let y=20;
+y=y-1;
+y--
+console.log(y);
+let p='5'
+let q=5;
+console.log(p==q);
+console.log(p===q);
+let j=10;
+let k=20;
+j+=k
+
+console.log(j);
+console.log(a!==b);
